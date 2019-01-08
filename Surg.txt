@@ -3,6 +3,7 @@ Safetty checklist
 -Name
 -procedure
 -Side
+-Blood Type
 
 Acuity
 -------
