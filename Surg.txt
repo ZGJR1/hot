@@ -1,4 +1,9 @@
 Safetty checklist
 -----------------
 -Name
-procedure
+-procedure
+-Side
+
+Acuity
+-------
+-Emergent
